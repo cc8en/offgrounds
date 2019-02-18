@@ -34,7 +34,6 @@ ALLOWED_HOSTS = ['uvahousing.herokuapp.com']
 
 INSTALLED_APPS = [
     'polls.apps.PollsConfig',
-    'reset_migrations',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
